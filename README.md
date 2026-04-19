@@ -2,7 +2,7 @@
 
 <img src="logo.png" alt="Tourism Buddy — 旅游搭子" width="240">
 
-<h1>Tourism Buddy · 旅游搭子</h1>
+<h1>Tourism Buddy · 旅游搭子.skill</h1>
 
 <p><em>Your AI travel companion — planning, budgeting, packing, phrases, and scam alerts in one chat.</em></p>
 
