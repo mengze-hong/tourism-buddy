@@ -1,0 +1,29 @@
+# User trip data — private, never commit
+data/*.json
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# WorkBuddy / Claude Code session files
+.workbuddy/memory/
+.claude/
